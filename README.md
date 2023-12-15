@@ -1,2 +1,1 @@
-# Occcupation
-capstone project- JOB PORTAL
+# JOB PORTAL
